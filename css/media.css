@@ -612,7 +612,7 @@
 	}
 	.menu__haschild::after {
 		font-size: 13px;
-		top: 16px;
+		top: 18px;
 		right: 10px;
 	}
 	.menu-mobile .menu {
@@ -641,6 +641,9 @@
 	}
 	.footer__nav a {
 		border: none;
+	}
+	.create a {
+		margin-left: 9px;
 	}
 }
 
@@ -754,11 +757,11 @@
 		height: 350px;
 	}
 	.billbord .list-page {
-    padding-top: 40px;
-}
-.billbord .btn-main {
-    margin-top: 50px;
-}
+		padding-top: 40px;
+	}
+	.billbord .btn-main {
+		margin-top: 50px;
+	}
 }
 
 /* Extra Small Devices, Phones */
@@ -781,6 +784,7 @@
 	}
 	.title-section span::before {
 		height: 43px;
+		width: 279px;
 	}
 	.title-middle {
 		font-size: 18px;
