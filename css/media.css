@@ -639,6 +639,9 @@
 	.sandwich span {
 		background-color: #fff;
 	}
+	.footer__nav a {
+		border: none;
+	}
 }
 
 /* Small Devices, Tablets */
